@@ -1,7 +1,7 @@
 # Calculator-Using-ReactJs
 
 
-This project is a simple calculator built using ReactJS. The calculator supports basic arithmetic operations and includes a clean and user-friendly interface.
+This project is a simple calculator built using ReactJS,and CSS. The calculator supports basic arithmetic operations and includes a clean and user-friendly interface.
 
 ![image](https://github.com/jatin78380/Calculator-Using-ReactJs/assets/149093745/9687b561-d21d-4f10-a23d-0a02d3a3a3c2)
 
