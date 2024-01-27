@@ -27,9 +27,6 @@ form input  {
   font-weight:bolder;
    cursor:pointer;
 }
-form input [type="button"]:hover{
-  background-color: blue;
-}
 form .display{
   display:flex;
   cursor:text;
