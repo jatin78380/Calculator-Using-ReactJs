@@ -32,6 +32,7 @@ form input [type="button"]:hover{
 }
 form .display{
   display:flex;
+  cursor:text;
   justify-content:flex-end;
   margin: 5px 0px 15px 0px;
 }
@@ -41,6 +42,6 @@ form .display input{
   font-size: 5px 10px ;
   background-color: rgb(64, 64, 64);
 }
-form input .equal{
-  width: 123px;
+form .equal{
+  width: 190px;
 }
