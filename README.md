@@ -1,4 +1,4 @@
- Calculator-Using-ReactJs
+## Calculator-Using-ReactJs
 
 
 This project is a simple calculator built using ReactJS,and CSS. The calculator supports basic arithmetic operations and includes a clean and user-friendly interface.
@@ -9,7 +9,7 @@ This project is a simple calculator built using ReactJS,and CSS. The calculator 
 
 
 
-## Features
+# Features
 
 - **Dynamic Display**: The calculator dynamically displays input and results using ReactJS state management with the `useState` hook.
 
